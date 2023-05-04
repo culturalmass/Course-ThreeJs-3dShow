@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan GTR R35 Nismo
+* source:	https://sketchfab.com/3d-models/nissan-gtr-r35-nismo-e00eb5d8708a4920b2119b39e9d90792
+* author:	aaflak6443 (https://sketchfab.com/aaflak6443)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan GTR R35 Nismo" (https://sketchfab.com/3d-models/nissan-gtr-r35-nismo-e00eb5d8708a4920b2119b39e9d90792) by aaflak6443 (https://sketchfab.com/aaflak6443) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
