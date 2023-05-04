@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useLoader, useFrame } from "@react-three/fiber";
-import { GLTFLoader } from "three/examples/jsm/loaders/gltfloader";
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Mesh } from "three";
 
 const Car = () => {
