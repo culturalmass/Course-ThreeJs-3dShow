@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { Suspense, useEffect } from "react";
 import { useLoader, useFrame } from "@react-three/fiber";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Mesh } from "three";
@@ -59,7 +59,11 @@ const Car = () => {
     group.children[26].rotation.x = t * 2;
   });
 
-  return <primitive object={gltf.scene} />;
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <primitive object={gltf.scene} />
+    </Suspense>
+  );
 };
 
 export default Car;
