@@ -4,7 +4,8 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Mesh } from "three";
 
 const Car = () => {
-  const gltf = useLoader(GLTFLoader, "models/car/scene.gltf");
+  // const gltf = useLoader(GLTFLoader, "models/car/scene.gltf");
+  const gltf = useLoader(GLTFLoader, "../public/models/car/scene.gltf");
 
   useEffect(() => {
     gltf.scene.scale.set(0.95, 0.95, 0.95);
