@@ -1,11 +1,13 @@
 html,
-body {
-  background-color: black;
-}
+body,
 #root,
 canvas {
   width: 100%;
   height: 100%;
   margin: 0;
   overflow: hidden;
+}
+
+body {
+  background-color: black;
 }
