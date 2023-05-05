@@ -4,7 +4,7 @@ export const Words = () => {
   return (
     <>
       <Text3D
-        font={"/public/fonts/darltalesregular.json"}
+        font={"fonts/darltalesregular.json"}
         size={0.3}
         height={0.065}
         curveSegments={24}
@@ -18,7 +18,7 @@ export const Words = () => {
         />
       </Text3D>
       <Text3D
-        font={"/public/fonts/darltalesregular.json"}
+        font={"fonts/darltalesregular.json"}
         size={0.2}
         height={0.065}
         curveSegments={24}
